@@ -1,4 +1,4 @@
-# Raspberry PI webcam
+# Raspberry Pi webcam
 
 Python-code to turn your Raspberry Pi into a wireless camera streaming device.
 
