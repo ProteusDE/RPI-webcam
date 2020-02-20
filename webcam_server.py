@@ -14,7 +14,7 @@ cam.start()
 
 # Initialize the server
 HOST = ""
-PORT = 65433
+PORT = 1234
 BUFFER_SIZE = 4096
 
 # Infinite loop that listens to incoming connections and connect to them.
